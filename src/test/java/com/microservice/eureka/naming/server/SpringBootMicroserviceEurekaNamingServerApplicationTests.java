@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.microservice.eureka.naming.server;
+package com.microservice.eureka.naming.server;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
